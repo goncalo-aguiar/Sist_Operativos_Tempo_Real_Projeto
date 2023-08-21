@@ -1,0 +1,7 @@
+Como correr programas:
+Primeiro correr aplicação do Zephyr.
+Segundo executar o seguinte para correr aplicação do PC:
+cd src
+gcc pc.c -lm
+./a.out
+
